@@ -10,3 +10,4 @@ Ingredients:
  - creme fraiche
  - noodles
  - parsley
+ - MSG
