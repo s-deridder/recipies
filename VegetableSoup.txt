@@ -8,3 +8,4 @@ Ingredients:
  - bouillon
  - twenty carrots
  - creme fraiche
+ - noodles
