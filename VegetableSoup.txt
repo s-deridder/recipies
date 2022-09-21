@@ -1,5 +1,9 @@
 Vegetable Soup Recipe:
 
+Utensils:
+ - pot
+ - stick blender
+ 
 Ingredients:
  - a pumpkin
  - five slices of smoked paprika
@@ -11,3 +15,4 @@ Ingredients:
  - noodles
  - parsley
  - MSG
+ 
