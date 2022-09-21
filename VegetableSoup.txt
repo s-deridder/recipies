@@ -11,3 +11,6 @@ Ingredients:
  - noodles
  - parsley
  - MSG
+
+ Steps:
+ - slice vegetables
